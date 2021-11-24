@@ -14,25 +14,25 @@
 </p>
 
 _Document Image analysis using OCR methods ._
-For more info , watch => [PPT](https://silentlad.com)
+</br> For more info            ,Visit  [PPT](https://github.com/rahul-agrawal-99/Document-Image-Analysis/blob/master/ReadmeReq/ppt.pptx)
 ---
 
 softawre Requirements : 
- </br>1] Python 3.7.3
+ </br>1] Python >= 3.7.3
  </br>2] Pytesseract
 
 
-# Gui Screenshots
+# GUI Screenshots
 
 
 <p align="center">
-</br> Home Page to select Image
+</br> Home Page to select Image</br>
 <img src="ReadmeReq/home.jpg" >
-</br></br> confirm and update extraced information from ocr
+</br></br> confirm and update extraced information from ocr</br>
 <img src="ReadmeReq/update.jpg" >
-</br> </br>convert to JSON Fromat and also downlaod json option is available
+</br> </br>convert to JSON Fromat and also downlaod json option is available</br>
 <img src="ReadmeReq/down.jpg" >
-</br></br> Records of ocr extractred information
+</br></br> Records of ocr extractred information</br>
 <img src="ReadmeReq/record.jpg" >
 
 </p>

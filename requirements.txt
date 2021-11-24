@@ -1,0 +1,8 @@
+dlib==19.22.0
+Flask==1.1.2
+easyocr==1.4.1
+nltk==3.6.3
+pytesseract==0.3.8
+json5==0.9.5
+opencv-python==4.5.2.54
+numpy==1.21.3
